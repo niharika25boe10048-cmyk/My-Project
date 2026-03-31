@@ -21,8 +21,6 @@ Ensure you have Python 3.8+ and pip installed on your system.
 
 2. Clone the Repository
 
-git clone https://github.com/YourUsername/My-Project.git
-cd My-Project
 
 3. Set Up Virtual Environment
 
